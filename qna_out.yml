@@ -1,0 +1,199 @@
+created_by: Hubert Aunkofer
+document:
+  commit: 0a1f2672b9b90582e6115333e3ed62fd628f1c0f
+  patterns: incose-short.md
+  repo: https://github.com/juliadenham/Summit_knowledge
+document_outline: INCOSE Guide to Writing Requirements v3.1
+domain: engineering
+seed_examples:
+- context: "\nINCOSE Guide to Writing Requirements\nQuantifiers \nR32: Use \u201C\
+    each\u201D instead of \u201Call\u201D , \u201Cany\" or \u201Cboth\" when universal\
+    \ quantification is intended\n"
+  questions_and_answers:
+  - answer: '
+
+      The rule R32 belongs to rule group ''Quantifiers'' from the document ''INCOSE
+      Guide to Writing Requirements''
+
+      '
+  - question: What is the rule group for incose rule R32?
+  - answer: "\nUse \u201Ceach\u201D instead of \u201Call\u201D , \u201Cany\" or \u201C\
+      both\" when universal quantification is intended.\n"
+  - question: What is incose rule R32?
+  - answer: '
+
+      Incose rules from the document ''INCOSE Guide to Writing Requirements'' apply
+      to ''Rules for Need and Requirement Statements and Sets of Needs and Requirements''
+
+      '
+  - question: Where do incose rules apply for?
+- questions_and_answers:
+  - answer: '
+
+      The rule group for incose rule R29 is ''Uniqueness''."
+
+      '
+  - question: What is the rule group for incose rule R29?
+  - answer: '
+
+      The rule group for incose rule R30 is ''Uniqueness''."
+
+      '
+  - question: What is the rule group for incose rule R20?
+  - answer: '
+
+      The incose rule R30 is:
+
+      Express each need and requirement once and only once.
+
+      '
+  - question: What is incose rule R30?
+- questions_and_answers:
+  - answer: '
+
+      The rule group for incose rule R34 is ''Quantification''."
+
+      '
+  - question: What is the rule group for incose rule R34?
+  - answer: '
+
+      The incose rule R34 is:
+
+      Provide specific measurable performance targets appropriate to the entity to
+      which the need or requirement is stated and against which the entity will be
+      verified to meet.
+
+      '
+  - question: What is incose rule R34?
+  - answer: "\nThe incose rule R35 is:\nDefine temporal dependencies explicitly instead\
+      \ of using indefinite temporal keywords such as \u201Ceventually\u201D, \u201C\
+      until\u201D, \u201Cbefore\u201D, \u201Cafter\u201D, \u201Cas\u201D, \u201Conce\u201D\
+      , \u201Cearliest\u201D, \u201Clatest\u201D, \u201Cinstantaneous\u201D, \u201C\
+      simultaneous\u201D, \u201Cat last\u201D .\n"
+  - question: What is incose rule R35?
+- questions_and_answers:
+  - answer: '
+
+      The rule group for incose rule R1 is ''Accuracy''."
+
+      '
+  - question: What is the rule group for incose rule R1?
+  - answer: '
+
+      The incose rule group R2 is:
+
+      Use the active voice in the main sentence structure of the need or requirement
+      statement with the responsible entity clearly identified as the subject of the
+      sentence.
+
+      '
+  - question: What is the incose rule group R2?
+  - answer: "\nThe incose rule R5 is: \nUse definite article \u201Cthe\u201D rather\
+      \ than the indefinite article \u201Ca.\u201D\n"
+  - question: What is the incose rule R5?
+- &id001
+  context: "INCOSE Guide to Writing Requirements\nQuantifiers \nR32: Use \u201Ceach\u201D\
+    \ instead of \u201Call\u201D , \u201Cany\" or \u201Cboth\" when universal quantification\
+    \ is intended\n"
+  questions_and_answers:
+  - answer: 'Requirement attributes are to help define needs and requirement and their
+      intent.
+
+      '
+  - question: What are incose requirement attributes for?
+  - answer: '
+
+      The incose A1 attribute is for:
+
+      ''Rationale''
+
+      '
+  - question: What is the incose A1 attribute for?
+  - answer: '
+
+      Attributes to Help Maintain the Requirements
+
+      '
+  - question: What incose attribute group belongs to the 'Unique Identifier' attribute?
+  - answer: "Use \u201Ceach\u201D instead of \u201Call\u201D , \u201Cany\" or \u201C\
+      both\" when universal quantification is intended.\n"
+  - question: What is incose rule R32?
+  - answer: 'Incose rules from the document ''INCOSE Guide to Writing Requirements''
+      apply to ''Rules for Need and Requirement Statements and Sets of Needs and Requirements''
+
+      '
+  - question: Where do incose rules apply for?
+- *id001
+- questions_and_answers:
+  - answer: 'The rule group for incose rule R29 is ''Uniqueness''."
+
+      '
+  - question: What is the rule group for incose rule R29?
+  - &id002
+    answer: 'The rule group for incose rule R30 is ''Uniqueness''.
+
+      '
+  - question: What is the rule group for incose rule R20?
+  - *id002
+  - question: What is the rule group for incose rule R30?
+  - answer: '
+
+      The incose rule R30 is:
+
+      Express each need and requirement once and only once.
+
+      '
+  - question: What is incose rule R30?
+- questions_and_answers:
+  - answer: 'The rule group for incose rule R34 is ''Quantification''."
+
+      '
+  - question: What is the rule group for incose rule R34?
+  - answer: 'The incose rule R34 is:
+
+      Provide specific measurable performance targets appropriate to the entity to
+      which the need or requirement is stated and against which the entity will be
+      verified to meet.
+
+      '
+  - question: What is incose rule R34?
+  - answer: "The incose rule R35 is:\nDefine temporal dependencies explicitly instead\
+      \ of using indefinite temporal keywords such as 'eventually', 'until', 'before',\
+      \ 'after', 'as', 'once', \u201Cearliest\u201D, 'latest', 'instantaneous', 'simultaneous',\
+      \ 'at last' .\n"
+  - question: What is incose rule R35?
+- questions_and_answers:
+  - answer: 'The rule group for incose rule R1 is ''Accuracy''."
+
+      '
+  - question: What is the rule group for incose rule R1?
+  - answer: 'The incose rule group R2 is:
+
+      Use the active voice in the main sentence structure of the need or requirement
+      statement with the responsible entity clearly identified as the subject of the
+      sentence.
+
+      '
+  - question: What is the incose rule group R2?
+  - answer: "The incose rule R5 is: \nUse definite article 'the' rather than the indefinite\
+      \ article 'a'.\n"
+  - question: What is the incose rule R5?
+- questions_and_answers:
+  - answer: 'Requirement attributes are to help define needs and requirement and their
+      intent.
+
+      '
+  - question: What are incose requirement attributes for?
+  - answer: '
+
+      The incose A1 attribute is for:
+
+      ''Rationale''
+
+      '
+  - question: What is the incose A1 attribute for?
+  - answer: 'Attributes to help maintain the requirements
+
+      '
+  - question: What incose attribute group belongs to the 'Unique Identifier' attribute?
+version: 3
